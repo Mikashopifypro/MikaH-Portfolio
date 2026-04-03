@@ -7,7 +7,7 @@ Webdevelopment portfolio met projecten gebouwd tijdens mijn leerproces als devel
 Mijn eerste webdevelopment project met meerdere pagina’s.
 
 Live website:
-https://mikashopifypro.github.io/padel-website/
+https://mikadevelopnl.github.io/padel-website/
 
 GitHub repository:
 https://github.com/Mikashopifypro/padel-website
